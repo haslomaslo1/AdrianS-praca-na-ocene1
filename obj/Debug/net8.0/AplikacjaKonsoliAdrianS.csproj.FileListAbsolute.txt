@@ -1,0 +1,14 @@
+C:\Users\adria\source\repos\AplikacjaKonsoliAdrianS\AplikacjaKonsoliAdrianS\bin\Debug\net8.0\AplikacjaKonsoliAdrianS.exe
+C:\Users\adria\source\repos\AplikacjaKonsoliAdrianS\AplikacjaKonsoliAdrianS\bin\Debug\net8.0\AplikacjaKonsoliAdrianS.deps.json
+C:\Users\adria\source\repos\AplikacjaKonsoliAdrianS\AplikacjaKonsoliAdrianS\bin\Debug\net8.0\AplikacjaKonsoliAdrianS.runtimeconfig.json
+C:\Users\adria\source\repos\AplikacjaKonsoliAdrianS\AplikacjaKonsoliAdrianS\bin\Debug\net8.0\AplikacjaKonsoliAdrianS.dll
+C:\Users\adria\source\repos\AplikacjaKonsoliAdrianS\AplikacjaKonsoliAdrianS\bin\Debug\net8.0\AplikacjaKonsoliAdrianS.pdb
+C:\Users\adria\source\repos\AplikacjaKonsoliAdrianS\AplikacjaKonsoliAdrianS\obj\Debug\net8.0\AplikacjaKonsoliAdrianS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adria\source\repos\AplikacjaKonsoliAdrianS\AplikacjaKonsoliAdrianS\obj\Debug\net8.0\AplikacjaKonsoliAdrianS.AssemblyInfoInputs.cache
+C:\Users\adria\source\repos\AplikacjaKonsoliAdrianS\AplikacjaKonsoliAdrianS\obj\Debug\net8.0\AplikacjaKonsoliAdrianS.AssemblyInfo.cs
+C:\Users\adria\source\repos\AplikacjaKonsoliAdrianS\AplikacjaKonsoliAdrianS\obj\Debug\net8.0\AplikacjaKonsoliAdrianS.csproj.CoreCompileInputs.cache
+C:\Users\adria\source\repos\AplikacjaKonsoliAdrianS\AplikacjaKonsoliAdrianS\obj\Debug\net8.0\AplikacjaKonsoliAdrianS.dll
+C:\Users\adria\source\repos\AplikacjaKonsoliAdrianS\AplikacjaKonsoliAdrianS\obj\Debug\net8.0\refint\AplikacjaKonsoliAdrianS.dll
+C:\Users\adria\source\repos\AplikacjaKonsoliAdrianS\AplikacjaKonsoliAdrianS\obj\Debug\net8.0\AplikacjaKonsoliAdrianS.pdb
+C:\Users\adria\source\repos\AplikacjaKonsoliAdrianS\AplikacjaKonsoliAdrianS\obj\Debug\net8.0\AplikacjaKonsoliAdrianS.genruntimeconfig.cache
+C:\Users\adria\source\repos\AplikacjaKonsoliAdrianS\AplikacjaKonsoliAdrianS\obj\Debug\net8.0\ref\AplikacjaKonsoliAdrianS.dll
